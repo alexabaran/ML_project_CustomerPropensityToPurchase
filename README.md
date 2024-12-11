@@ -26,7 +26,7 @@ The dataset contains information about buyer interactions, representing a single
 
 An online store owner aiming to minimize the risk of abandoned shopping carts and maximize conversion rates.
 
-## Project Steps
+## Project Parts
 
 ### 1. Data Preparation and Cleanup (`01_Data_Preparation_and_Cleanup`)
 
