@@ -87,8 +87,6 @@ By identifying these factors, we can focus on improving the overall shopping exp
   - Training set: 75%
   - Test set: 75%
   - True Positive Rate: 74%
- 
-![image](https://github.com/user-attachments/assets/44fce770-43b3-47ec-8077-84b6998c7aee)
 
 
 ### XGBoost
@@ -98,8 +96,6 @@ By identifying these factors, we can focus on improving the overall shopping exp
   - True Positive Rate: 76%
 
 - **SHAP analysis** was used to interpret the model’s results.
-
-![image](https://github.com/user-attachments/assets/835ee4f3-4307-4bed-98fc-9f1fa6d62a49)
 
 
 ## Recommendations
