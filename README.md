@@ -10,3 +10,4 @@ Goal: Analyze whether a given customer will make a purchase with us or not.
 Stakeholder: An online store owner aiming to minimize the risk of abandoned shopping carts.
 
 ---
+
