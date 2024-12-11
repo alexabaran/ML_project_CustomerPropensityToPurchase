@@ -49,7 +49,7 @@ An online store owner aiming to minimize the risk of abandoned shopping carts an
 
 As part of the **RocketScience Team**, my primary focus was on the **statistical analysis** of user behavior and exploring the question: *What actions do people take before they add items to their shopping cart?*
 
-Given that only 4% of users who added items to their cart completed their purchases, I focused on understanding what could potentially increase the frequency of cart additions. I hypothesized that improving the actions that lead up to adding products to the cart could lead to an increase in overall sales.
+Given that 25% of users who added items to their cart completed their purchases, I focused on understanding what could potentially increase the frequency of cart additions. I hypothesized that improving the actions that lead up to adding products to the cart could lead to an increase in overall sales.
 
 ### Key Areas I Focused On:
 - **Identifying user behaviors before cart additions**: I analyzed the data to understand the sequence of actions users take before adding items to their baskets.
@@ -104,7 +104,7 @@ By identifying these factors, we can focus on improving the overall shopping exp
 
 ## Recommendations
 
-Since only 4% of users who add items to their cart finalize the purchase, increasing the number of cart additions could potentially boost sales. Here are the key recommendations based on the analysis:
+Since 25% of users who add items to their cart finalize the purchase, increasing the number of cart additions could potentially boost sales. Here are the key recommendations based on the analysis:
 
 ### Key Factors Influencing Cart Additions:
 - Users visiting the homepage.
@@ -122,5 +122,5 @@ Since only 4% of users who add items to their cart finalize the purchase, increa
 
 ## Conclusion
 
-This project has successfully identified key factors and behaviors influencing cart additions and purchases. By acting on these insights, the online store can reduce cart abandonment rates and improve overall conversion rates.
+This project has identified key factors and behaviors influencing cart additions and purchases. By acting on these insights, the online store can reduce cart abandonment rates and improve overall conversion rates.
 
