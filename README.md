@@ -1,7 +1,5 @@
 # Machine Learning Customer Propensity to Purchase
 
----
-
 This project was completed as part of a DataScience Bootcamp. Our team, called **RocketScience Team**, consisted of three members. The goal of the project was to analyze customer behaviors and interactions on a fictional e-commerce website to understand the factors influencing cart abandonment and purchase conversions. By identifying these key behaviors, we aimed to provide actionable insights that would increase purchase likelihood and reduce cart abandonment rates.
 
 ## Project Overview
