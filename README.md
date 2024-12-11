@@ -28,19 +28,19 @@ An online store owner aiming to minimize the risk of abandoned shopping carts an
 
 ## Project Parts
 
-### 1. Data Preparation and Cleanup (`01_Data_Preparation_and_Cleanup`)
+### 1. Data Preparation and Cleanup (`01_DATA_CLEANING_Customer propensity to purchase`)
 
 - Clean and preprocess the dataset to ensure quality and usability for analysis and modeling.
 
-### 2. Exploratory Data Analysis (EDA) (`02_Exploratory_Data_Analysis`)
+### 2. Exploratory Data Analysis (EDA) (`02_STATISTICS_Customer propensity to purchase`)
 
 - Conduct general statistical analysis to understand user behaviors and identify trends or patterns.
 
-### 3. Logistic Regression Analysis (`03_Logistic_Regression_Analysis`)
+### 3. Logistic Regression Analysis (`03_LOGISTIC_REGRESSION_Customer propensity to purchase_basket_RL`)
 
 - Use logistic regression to analyze the factors influencing users to add items to their carts.
 
-### 4. XGBoost Analysis (`04_XGBoost_Analysis`)
+### 4. XGBoost Analysis (`04_XGBOOST_Customer propensity to purchase_basket`)
 
 - Apply the XGBoost algorithm to identify factors influencing cart additions.
 - Perform hyperparameter tuning and SHAP analysis for model interpretability.
