@@ -1,4 +1,4 @@
-# Machine Learning Customer Propensity to Purchase
+# Machine Learning - Customer Propensity to Purchase
 
 **!! This project is made in Polish because of the Polish bootcamp.**
 
